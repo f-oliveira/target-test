@@ -1,0 +1,14 @@
+{
+  "name": "targetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Exercicio3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "extenso": "^2.0.1"
+  }
+}
